@@ -62,7 +62,7 @@ iex "& { $(iwr -useb 'https://sanoojes.github.io/spicetify-colorful/install/inst
 **Linux/macOS (Bash)**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/install/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/install.sh | sh
 ```
 
 #### Using Spicetify Marketplace (simpler installation):
